@@ -2,7 +2,7 @@ Package.describe({
   name: 'bobbigmac:lazy-logger',
   version: '1.0.0',
   // Brief, one-line summary of the package.
-  summary: 'Simple logging wrapper for client-side to display console.log, console.warn and console.error messages in the page body (reduce need to have the console open)',
+  summary: 'Display console.log, .warn and .error messages in the page body (reduce need for console)',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/bobbigmac/lazy-logger',
   // By default, Meteor will default to using README.md for documentation.
