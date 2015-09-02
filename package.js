@@ -1,6 +1,6 @@
 Package.describe({
   name: 'bobbigmac:lazy-logger',
-  version: '1.0.0',
+  version: '1.0.1',
   // Brief, one-line summary of the package.
   summary: 'Display console.log, .warn and .error messages in the page body (reduce need for console)',
   // URL to the Git repository containing the source code for this package.
